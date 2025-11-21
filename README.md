@@ -72,7 +72,7 @@ No setup. No dependencies. Extremely beginner-friendly.
 
 🌎 Live Demo
 
-🔗 Live Site: (Add your GitHub Pages / Netlify link here)
+🔗 Live Site: https://shivaniswaraj-1.github.io/Propvista/
 
 🧩 Future Enhancements
 
